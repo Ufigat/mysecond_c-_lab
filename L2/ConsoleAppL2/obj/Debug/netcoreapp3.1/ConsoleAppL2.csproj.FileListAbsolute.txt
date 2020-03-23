@@ -12,3 +12,17 @@ C:\Users\Владыка\Desktop\C#\ConsoleAppL2\bin\Debug\netcoreapp3.1\ClassLib
 C:\Users\Владыка\Desktop\C#\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.csproj.CopyComplete
 C:\Users\Владыка\Desktop\C#\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.dll
 C:\Users\Владыка\Desktop\C#\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.pdb
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ConsoleAppL2.exe
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ConsoleAppL2.deps.json
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ConsoleAppL2.runtimeconfig.json
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ConsoleAppL2.runtimeconfig.dev.json
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ConsoleAppL2.dll
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ConsoleAppL2.pdb
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ClassLibraryL2.dll
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\bin\Debug\netcoreapp3.1\ClassLibraryL2.pdb
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.csprojAssemblyReference.cache
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.AssemblyInfoInputs.cache
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.AssemblyInfo.cs
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.csproj.CopyComplete
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.dll
+C:\Users\Владыка\Desktop\C#\L2\ConsoleAppL2\obj\Debug\netcoreapp3.1\ConsoleAppL2.pdb

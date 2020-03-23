@@ -14,7 +14,7 @@ namespace ConsoleAppL2
             Console.WriteLine(Complex.ToString(t2));
             Console.WriteLine(Complex.ToString(t3));
             Console.WriteLine("Работа с шахматной доской:");
-            Desk desk1 = new Desk(4, 3, 2, 4, 3, 4);
+            Desk desk1 = new Desk(4, 1, 1, 4, 4, 4);
             Console.WriteLine("Размер доски:");
             Console.WriteLine(Desk.Count(desk1));
             Console.WriteLine("Цвет клекти:");
@@ -25,7 +25,7 @@ namespace ConsoleAppL2
             Desk.Eating(desk1);
             // Задание с датой
             Console.WriteLine("Работа с датой:");
-            DateTime d1 = new DateTime(2020, 02, 29);
+            DateTime d1 = new DateTime(2020, 04, 10);
 
 
             DateTime nowDate = DateTime.Now;
@@ -93,7 +93,7 @@ namespace ConsoleAppL2
                     Console.Write(iii + " ");
                 iii++;
             } while (iii < 1000);
-
+            Console.WriteLine();
             // Пирамида чисел
             int k = 8;
             int l = 1;

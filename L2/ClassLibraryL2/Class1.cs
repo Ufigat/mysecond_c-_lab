@@ -40,21 +40,21 @@ namespace ClassLibraryL2
         // Количество Клеток на доске
         public static int Count(Desk C1)
         {
-            return C1.n * C1.n;
+            return C1.n * C1.n/2;
         }
         //Цвет клетки
         public static string Color(Desk C1)
         {
-            if ((C1.a % 2 != 0) && (C1.b % 2 == 0)) { return C1.a + " " + C1.b + " is white"; }
-            if ((C1.a % 2 == 0) && (C1.b % 2 != 0)) { return C1.a + " " + C1.b + " is black"; }
+            if (((C1.a % 2 == 0) && (C1.b % 2 != 0)) || ((C1.a % 2 != 0) && (C1.b % 2 == 0))) { return C1.a + " " + C1.b + " is white"; }
+            if (((C1.a % 2 != 0) && (C1.b % 2 != 0)) || ((C1.a % 2 == 0) && (C1.b % 2 == 0))) { return C1.a + " " + C1.b + " is black"; }
             return "";
         }
         //Одинаковый цвет
         public static string SameSquare(Desk C1)
         {
             bool tempa, tempb;
-            if ((C1.a % 2 != 0) && (C1.b % 2 == 0)) { tempa = true; } else { tempa = false; };
-            if ((C1.a % 2 == 0) && (C1.b % 2 != 0)) { tempb = false; } else { tempb = true; };
+            if (((C1.a % 2 == 0) && (C1.b % 2 != 0)) || ((C1.a % 2 != 0) && (C1.b % 2 == 0))) { tempa = true; } else { tempa = false; }; // белая
+            if (((C1.c % 2 != 0) && (C1.d % 2 != 0)) || ((C1.c % 2 == 0) && (C1.d % 2 == 0))) { tempb = false; } else { tempb = true; }; // черное
             if (tempa == tempb) { return "YES"; } else { return "NO"; };
 
         }

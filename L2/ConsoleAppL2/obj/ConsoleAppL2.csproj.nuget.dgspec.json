@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владыка\\Desktop\\C#\\ConsoleAppL2\\ConsoleAppL2.csproj": {}
+    "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ConsoleAppL2\\ConsoleAppL2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владыка\\Desktop\\C#\\ClassLibraryL2\\ClassLibraryL2.csproj": {
+    "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ClassLibraryL2\\ClassLibraryL2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владыка\\Desktop\\C#\\ClassLibraryL2\\ClassLibraryL2.csproj",
+        "projectUniqueName": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ClassLibraryL2\\ClassLibraryL2.csproj",
         "projectName": "ClassLibraryL2",
-        "projectPath": "C:\\Users\\Владыка\\Desktop\\C#\\ClassLibraryL2\\ClassLibraryL2.csproj",
+        "projectPath": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ClassLibraryL2\\ClassLibraryL2.csproj",
         "packagesPath": "C:\\Users\\Владыка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владыка\\Desktop\\C#\\ClassLibraryL2\\obj\\",
+        "outputPath": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ClassLibraryL2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владыка\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Владыка\\Desktop\\C#\\ConsoleAppL2\\ConsoleAppL2.csproj": {
+    "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ConsoleAppL2\\ConsoleAppL2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владыка\\Desktop\\C#\\ConsoleAppL2\\ConsoleAppL2.csproj",
+        "projectUniqueName": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ConsoleAppL2\\ConsoleAppL2.csproj",
         "projectName": "ConsoleAppL2",
-        "projectPath": "C:\\Users\\Владыка\\Desktop\\C#\\ConsoleAppL2\\ConsoleAppL2.csproj",
+        "projectPath": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ConsoleAppL2\\ConsoleAppL2.csproj",
         "packagesPath": "C:\\Users\\Владыка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владыка\\Desktop\\C#\\ConsoleAppL2\\obj\\",
+        "outputPath": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ConsoleAppL2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владыка\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Владыка\\Desktop\\C#\\ClassLibraryL2\\ClassLibraryL2.csproj": {
-                "projectPath": "C:\\Users\\Владыка\\Desktop\\C#\\ClassLibraryL2\\ClassLibraryL2.csproj"
+              "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ClassLibraryL2\\ClassLibraryL2.csproj": {
+                "projectPath": "C:\\Users\\Владыка\\Desktop\\C#\\L2\\ClassLibraryL2\\ClassLibraryL2.csproj"
               }
             }
           }
